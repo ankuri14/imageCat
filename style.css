@@ -1,0 +1,15 @@
+#canvas{
+    margin: auto;
+    background: #ececec;
+    width: 100%;
+}
+.btn-disable{
+    color: #fff;
+}
+.logo{
+    width:100px
+    
+}
+.bg-infso{
+    background-color: #faebff !important;
+}
