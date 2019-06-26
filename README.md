@@ -1,2 +1,2 @@
 # imageCat
-Image Editor
+Image Editor built with javaScript
